@@ -1,0 +1,6 @@
+During chemical experiments, standard solutions are required to be prepared.
+A standard solution is a solution in which the concentratrion is very accurately
+known. The relationships among the following units are very important in the
+preparation of standard solutions.
+
+grade11

@@ -1,0 +1,13 @@
+.idea/
+.idea
+.log
+.pyc
+VENV/
+.class
+.exe
+node_modules/
+IMAGES_OUT/
+PDF_IN/
+RAW_DATA_IN/
+RAW_DATA_OUT/
+venv/

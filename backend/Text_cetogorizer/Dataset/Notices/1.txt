@@ -1,0 +1,4 @@
+module delivery for the 1st Academic week -2021
+Only the lectures will be conducted in the 1st Academic week. No labs/Tutorials will be conducted. 
+
+Notice

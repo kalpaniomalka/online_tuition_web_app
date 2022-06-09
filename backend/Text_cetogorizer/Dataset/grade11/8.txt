@@ -1,0 +1,8 @@
+This is used to express the composition of a homogeneous mixture (solution). 'Mole'
+is the international unit for the amount of matter. Here, the composition is given in
+terms of the amount of moles of solute contained in unit volume of a solution. The
+composition expressed in this way is called the concentration (C). In chemistry,
+very often concentration of a solution is expressed in terms of the amount of moles
+of solute contained in a cubic decimetre of the solution
+
+grade11

@@ -1,0 +1,4 @@
+Student’s camera should be kept on during the viva.
+At the beginning of a viva session, the student should  display the student ID card in front of the camera
+
+Notice

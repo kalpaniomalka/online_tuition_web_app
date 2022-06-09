@@ -1,0 +1,141 @@
+.calculate-btn {
+    background-color: #6a7cdf;
+    padding: 5px 20px;
+    color: rgb(10, 1, 1);
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #0a28ce;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 450px;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+    height: 40px;
+  }
+
+  .calculate-btn:hover {
+    background-color: rgb(85, 128, 194);
+    transform: translate(0px, -2px);
+    color: #04060f;
+    box-shadow: 0px 15px 30px -12px rgba(255, 255, 255, 0.2);
+  }
+  
+  .calculate-btn:focus {
+    background-color: #32408f;
+  }
+  
+  .calculate-btn:focus:hover {
+    color: white;
+  }
+  
+  .calculate-btn:disabled {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+    cursor: default;
+  }
+  
+  .calculate-btn:disabled:hover {
+    box-shadow: none;
+    transform: translate(0, 0);
+  }
+  
+
+  .post-btn {
+    background-color: #6a7cdf;
+    padding: 5px 20px;
+    color: rgb(10, 1, 1);
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #0a28ce;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 50px;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+    height: 40px;
+  }
+
+
+.code{
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 150px;
+    color: #075269; 
+    font-size:12pt; 
+  }
+
+#question{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#question td, #question th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#question tr:nth-child(even){background-color: #f2f2f2;}
+
+#question tr:hover {background-color: #ddd;}
+
+#question th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #5c67cf;
+  color: white;
+}
+
+.namef{
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+    background-color: #010b16;
+    border-radius: 10px;
+    
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+    color: #d5d5da;
+  }
+}
+
+.pge{
+  background-image: url("bg.jpg");
+  
+}
+
+.model_hdr{
+  background-color: #0e0538;
+  color: white;
+  font-size: 20px;
+}
+
+.btn_modal{
+  margin-left: 400px;
+}
+
+.btn_style{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+.slider{
+  margin-left: 105px;
+}

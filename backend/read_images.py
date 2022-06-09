@@ -25,7 +25,7 @@ img_path = current_path+"\\Outputs"
 
 EMAIL_ADDRESS = "eduhelp.finance@gmail.com"
 rec_email = "Dinujasm@gmail.com"
-password = "eduhelp@12"
+password = ""
 value_arr = []
 
 # load the handwriting OCR model

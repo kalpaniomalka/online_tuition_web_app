@@ -2,7 +2,7 @@ import MySQLdb
 
 host = "localhost"
 user = "root"
-pwd = "root"
+pwd = ""
 db = "eduhelp"
 port = 3306
 
